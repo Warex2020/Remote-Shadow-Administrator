@@ -18,5 +18,3 @@ To connect to the server via rdp mstsc with /admin switch is used, it allows to 
 * Made changes in interface: form size was increased, icons were replaced (import dll from system32)
 * Reworked DGV command output (except for TCP Viewer and DISM). For Services, Process and SMP open files context menu output in OGV is saved. Added search menu for services and processes. For service statuses as well as processes with trigger values more than 100mb RAM and 10 CPU are highlighted.
 * Added showing a list of DNS zones and records in it (via icm, the module is not required) on the host with DNS role for fast search. Added
-
-Translated with www.DeepL.com/Translator (free version)
